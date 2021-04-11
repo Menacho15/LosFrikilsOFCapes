@@ -1,2 +1,2 @@
 # LosFrikilsOFCapes
-Los Frikils OP Cape Server
+Los Frikils OF Cape Server
